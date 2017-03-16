@@ -1,0 +1,17 @@
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/UnityEngine.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/UnityEditor.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/Mono.Cecil.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/Unity.DataContract.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/obj/Debug/Assembly-CSharp.dll
+/Users/weiminding/Sample/Unity/RollingBall/RollingBall/obj/Debug/Assembly-CSharp.dll.mdb
